@@ -24,18 +24,18 @@ body {
     background-color: #d43b27;  
     left: 25%;  
     right: 0;  
-    height: 30px;  
+    height: 35px;  
     align: center;  
     }  
     .navheader * {  
     display: inline;  
     }  
     .navheader li {  
-    margin: 10px;  
+    margin: 25px;  
     }  
     .navheader li a {  
     font-family: 'Poppins', sans-serif; 
-    font-size: 16pt;
+    font-size: 15pt;
     color: white;  
     text-decoration: none;  
     }  
